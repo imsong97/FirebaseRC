@@ -1,0 +1,3 @@
+# FirebaseRC
+
+Firebase Remote Config
