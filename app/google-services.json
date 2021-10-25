@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "41650556929",
+    "project_id": "fir-42051",
+    "storage_bucket": "fir-42051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41650556929:android:741dd605372e0fe43cb000",
+        "android_client_info": {
+          "package_name": "com.yunho.remoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41650556929-gojsqft9qp3gkhr7b2k8e19b1a1lpk6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yunho.remoteconfig",
+            "certificate_hash": "7363f4fdc09fdd7f4f2ad2f34aa7dc5793c7ce09"
+          }
+        },
+        {
+          "client_id": "41650556929-uhojd3mg0ncelfog4jtkn74nc9jbdmc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcNh1WHFqVVNXg_HdlTtDAlVylHlpCcW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41650556929-uhojd3mg0ncelfog4jtkn74nc9jbdmc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
